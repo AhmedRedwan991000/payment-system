@@ -1,0 +1,196 @@
+Transaction No. 1
+Transaction Date: 13/09/2022
+Customer's Name: ahmedmohamedyahyaali
+Pinary Account Number: 102030405060708090
+Transaction Amount: 15000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 2
+Transaction Date: 13/09/2022
+Customer's Name: ahmed mohamed yahya ali
+Pinary Account Number: 102030405060708070
+Transaction Amount: 1260.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 3
+Transaction Date: 14/09/2022
+Customer's Name: khaled ahmed karim ali
+Pinary Account Number: 102030405060708000
+Transaction Amount: 11000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 4
+Transaction Date: 14/09/2022
+Customer's Name: karim mohamed ahmed ali
+Pinary Account Number: 102030405060708050
+Transaction Amount: 15000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 5
+Transaction Date: 14/09/2022
+Customer's Name:  1020304050607080100
+Pinary Account Number: 1020304050607080100
+Transaction Amount: 15000.00
+Transaction State: Declined_Stolen_Card
+------------------------------------------------------------------
+Transaction No. 6
+Transaction Date: 14/09/2022
+Customer's Name: abdallah ahmed ali yahya
+Pinary Account Number: 102030405060708020
+Transaction Amount: 15000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 7
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamedyahya ali
+Pinary Account Number: 12345678912345678
+Transaction Amount: 1200.00
+Transaction State: Declined, The Account Is Not Found Or Blocked
+------------------------------------------------------------------
+Transaction No. 8
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamedyahya ali
+Pinary Account Number: 102030405060708090
+Transaction Amount: 12000.00
+Transaction State: Declined Insuffecient Fund
+------------------------------------------------------------------
+Transaction No. 9
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamedyahya ali
+Pinary Account Number:  102030405060708090
+Transaction Amount: 3000.00
+Transaction State: Declined, The Account Is Not Found Or Blocked
+------------------------------------------------------------------
+Transaction No. 10
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamedyahya ali
+Pinary Account Number: 102030405060708090
+Transaction Amount: 3000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 11
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamedyahya ali
+Pinary Account Number: 102030405060708090
+Transaction Amount: 1000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 12
+Transaction Date: 15/09/2022
+Customer's Name:  ahmed mohamedyahya ali
+Pinary Account Number: 102030405060708090
+Transaction Amount: 1600.00
+Transaction State: Declined Insuffecient Fund
+------------------------------------------------------------------
+Transaction No. 13
+Transaction Date: 15/09/2022
+Customer's Name: karim ahmed ali khaled
+Pinary Account Number: 102030405060708010
+Transaction Amount: 1500.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 14
+Transaction Date: 15/09/2022
+Customer's Name: karim ahmed ali khaled
+Pinary Account Number: 102030405060708010
+Transaction Amount: 9000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 15
+Transaction Date: 15/09/2022
+Customer's Name: karim ahmed ali khaled
+Pinary Account Number: 102030405060708010
+Transaction Amount: 7000.00
+Transaction State: Declined Insuffecient Fund
+------------------------------------------------------------------
+Transaction No. 16
+Transaction Date: 15/09/2022
+Customer's Name: ahmed ali mohamed karam
+Pinary Account Number: 123456789123456789
+Transaction Amount: 1000.00
+Transaction State: Declined, The Account Is Not Found Or Blocked
+------------------------------------------------------------------
+Transaction No. 17
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamed yahya ali
+Pinary Account Number: 1020304050607070
+Transaction Amount: 14500.00
+Transaction State: Declined, The Account Is Not Found Or Blocked
+------------------------------------------------------------------
+Transaction No. 18
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamed yahya ali
+Pinary Account Number: 102030405060708070
+Transaction Amount: 14500.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 19
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamed yahya ali
+Pinary Account Number: 102030405060708050
+Transaction Amount: 15000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 20
+Transaction Date: 15/09/2022
+Customer's Name: karim ahmed ali ali 
+Pinary Account Number: 102030405060708030
+Transaction Amount: 14000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 21
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamed yahya ali
+Pinary Account Number: 123456789123456789
+Transaction Amount: 100.00
+Transaction State: Declined, The Account Is Not Found Or Blocked
+------------------------------------------------------------------
+Transaction No. 22
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamed yahya ali
+Pinary Account Number: 102030405060708070
+Transaction Amount: 100.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 23
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamed yahya ali
+Pinary Account Number: 102030405060708010
+Transaction Amount: 4999.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 24
+Transaction Date: 15/09/2022
+Customer's Name: sami ahmed ali karim
+Pinary Account Number: 102030405060708040
+Transaction Amount: 4999.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 25
+Transaction Date: 15/09/2022
+Customer's Name:  sami ahmed ali karim
+Pinary Account Number: 102030405060708040
+Transaction Amount: 5000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 26
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamed yahya ali
+Pinary Account Number: 102030405060708040
+Transaction Amount: 4999.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 27
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamed yahya ali
+Pinary Account Number: 102030405060708040
+Transaction Amount: 5000.00
+Transaction State: Approved
+------------------------------------------------------------------
+Transaction No. 28
+Transaction Date: 15/09/2022
+Customer's Name: ahmed mohamed yahya ali
+Pinary Account Number: 102030405060708040
+Transaction Amount: 2500.00
+Transaction State: Approved
+------------------------------------------------------------------
